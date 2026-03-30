@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of: print(list(map(lambda x: x**2, [1,2,3])))?",
+    "options": ["[1,2,3]", "[1,4,9]", "[2,4,6]", "[1,8,27]"],
+    "answer": "[1,4,9]"
+  },
+  {
+    "id": 2,
+    "question": "Which module is used for deep copy?",
+    "options": ["copy", "deepcopy", "clone", "pickle"],
+    "answer": "copy"
+  },
+  {
+    "id": 3,
+    "question": "What keyword is used in generators?",
+    "options": ["return", "yield", "generate", "next"],
+    "answer": "yield"
+  },
+  {
+    "id": 4,
+    "question": "What is the output of 'Hello'[::-1]?",
+    "options": ["Hello", "olleH", "Holle", "error"],
+    "answer": "olleH"
+  },
+  {
+    "id": 5,
+    "question": "Which handles memory management?",
+    "options": ["Compiler", "Garbage Collector", "Interpreter", "JVM"],
+    "answer": "Garbage Collector"
+  },
+  {
+    "id": 6,
+    "question": "What is a decorator?",
+    "options": [
+      "A loop",
+      "A function modifying another function",
+      "A class",
+      "A module"
+    ],
+    "answer": "A function modifying another function"
+  },
+  {
+    "id": 7,
+    "question": "Which is immutable?",
+    "options": ["List", "Set", "Tuple", "Dictionary"],
+    "answer": "Tuple"
+  },
+  {
+    "id": 8,
+    "question": "What is bool([])?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "False"
+  },
+  {
+    "id": 9,
+    "question": "*args is used for?",
+    "options": ["Keyword args", "Positional args", "Return values", "Classes"],
+    "answer": "Positional args"
+  },
+  {
+    "id": 10,
+    "question": "Lambda function is?",
+    "options": ["Named function", "Anonymous function", "Loop", "Class"],
+    "answer": "Anonymous function"
+  },
+  {
+    "id": 11,
+    "question": "The 'with' statement is used for?",
+    "options": ["Loops", "Exception handling", "Resource management", "Inheritance"],
+    "answer": "Resource management"
+  },
+  {
+    "id": 12,
+    "question": "List comprehension is?",
+    "options": ["Loop", "Short syntax for lists", "Function", "Class"],
+    "answer": "Short syntax for lists"
+  },
+  {
+    "id": 13,
+    "question": "set([1,1,2,3]) gives?",
+    "options": ["[1,1,2,3]", "{1,2,3}", "(1,2,3)", "Error"],
+    "answer": "{1,2,3}"
+  },
+  {
+    "id": 14,
+    "question": "append() vs extend()?",
+    "options": [
+      "Same",
+      "append adds one, extend adds multiple",
+      "extend adds one",
+      "append deletes"
+    ],
+    "answer": "append adds one, extend adds multiple"
+  },
+  {
+    "id": 15,
+    "question": "Exception handling uses?",
+    "options": ["if-else", "for loop", "try-except", "while"],
+    "answer": "try-except"
+  },
+  {
+    "id": 16,
+    "question": "__init__ is?",
+    "options": ["Destructor", "Constructor", "Loop", "Variable"],
+    "answer": "Constructor"
+  },
+  {
+    "id": 17,
+    "question": "Slicing uses?",
+    "options": ["()", "{}", "[]", "<>"],
+    "answer": "[]"
+  },
+  {
+    "id": 18,
+    "question": "Recursion is?",
+    "options": ["Loop", "Function calling itself", "Class", "Module"],
+    "answer": "Function calling itself"
+  },
+  {
+    "id": 19,
+    "question": "Dictionary stores?",
+    "options": ["Values only", "Keys only", "Key-value pairs", "Indexes"],
+    "answer": "Key-value pairs"
+  },
+  {
+    "id": 20,
+    "question": "len('Python') = ?",
+    "options": ["5", "6", "7", "Error"],
+    "answer": "6"
+  }
+]

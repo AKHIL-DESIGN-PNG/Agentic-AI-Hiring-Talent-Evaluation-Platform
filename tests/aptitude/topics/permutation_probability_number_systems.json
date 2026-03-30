@@ -1,0 +1,97 @@
+{
+  "section": "Aptitude",
+  "topic": "Permutation Probability Number Systems",
+  "questions": [
+    {
+      "id": "apt-6",
+      "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+      "options": [
+        "18",
+        "24",
+        "42",
+        "81"
+      ],
+      "answer": "24"
+    },
+    {
+      "id": "apt-26",
+      "question": "A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",
+      "options": [
+        "6 hours",
+        "10 hours",
+        "15 hours",
+        "30 hours"
+      ],
+      "answer": "15 hours"
+    },
+    {
+      "id": "apt-30",
+      "question": "At a game of billiards, A can give B 15 points in 60 and A can give C 20 points in 60. How many points can B give C in a game of 90?",
+      "options": [
+        "30 points",
+        "20 points",
+        "10 points",
+        "12 points"
+      ],
+      "answer": "10 points"
+    },
+    {
+      "id": "apt-46",
+      "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "96",
+        "None of these"
+      ],
+      "answer": "64"
+    },
+    {
+      "id": "apt-48",
+      "question": "In how many different ways can the letters of the word DETAIL be arranged in such a way that the vowels occupy only the odd positions?",
+      "options": [
+        "72",
+        "48",
+        "36",
+        "60",
+        "120"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": "apt-49",
+      "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+      "options": [
+        "3",
+        "4",
+        "9",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "apt-53",
+      "question": "The least perfect square, which is divisible by each of 21, 36 and 66 is:",
+      "options": [
+        "213444",
+        "214344",
+        "214434",
+        "231444"
+      ],
+      "answer": "213444"
+    },
+    {
+      "id": "apt-55",
+      "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+      "options": [
+        "276",
+        "299",
+        "322",
+        "345"
+      ],
+      "answer": "322"
+    }
+  ]
+}

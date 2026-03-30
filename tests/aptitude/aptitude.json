@@ -1,0 +1,336 @@
+{
+  "section": "Aptitude",
+  "questions": [
+    {
+      "id": "apt-1",
+      "question": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
+      "options": ["Rs. 4991", "Rs. 5991", "Rs. 6001", "Rs. 6991"],
+      "answer": "Rs. 4991"
+    },
+    {
+      "id": "apt-2",
+      "question": "Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",
+      "options": ["22", "24", "25", "26"],
+      "answer": "25"
+    },
+    {
+      "id": "apt-3",
+      "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+      "answer": "150 metres"
+    },
+    {
+      "id": "apt-4",
+      "question": "FAG, GAF, HAI, IAH, ____",
+      "options": ["JAK", "HAL", "HAK", "JAI"],
+      "answer": "JAK"
+    },
+    {
+      "id": "apt-5",
+      "question": "Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?",
+      "options": ["3", "3.3", "3.5", "3.6"],
+      "answer": "3.6"
+    },
+    {
+      "id": "apt-6",
+      "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+      "options": ["18", "24", "42", "81"],
+      "answer": "24"
+    },
+    {
+      "id": "apt-7",
+      "question": "Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+      "options": ["8 kmph", "11 kmph", "12 kmph", "14 kmph"],
+      "answer": "12 kmph"
+    },
+    {
+      "id": "apt-8",
+      "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+      "options": ["12 days", "15 days", "16 days", "18 days"],
+      "answer": "15 days"
+    },
+    {
+      "id": "apt-9",
+      "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+      "options": ["Rs. 8400", "Rs. 11,900", "Rs. 13,600", "Rs. 14,700"],
+      "answer": "Rs. 14,700"
+    },
+    {
+      "id": "apt-10",
+      "question": "Find the odd one out: 10, 25, 45, 54, 60, 75, 80",
+      "options": ["10", "45", "54", "75"],
+      "answer": "54"
+    },
+    {
+      "id": "apt-11",
+      "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+      "options": ["1 : 3", "3 : 2", "3 : 4", "None of these"],
+      "answer": "3 : 2"
+    },
+    {
+      "id": "apt-12",
+      "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+      "options": ["A is smaller than B.", "A is greater than B", "Relationship between A and B cannot be determined.", "If x is smaller than y, then A is greater than B.", "None of these"],
+      "answer": "None of these"
+    },
+    {
+      "id": "apt-13",
+      "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+      "options": ["14 years", "19 years", "33 years", "38 years"],
+      "answer": "14 years"
+    },
+    {
+      "id": "apt-14",
+      "question": "What was the day of the week on 28th May, 2006?",
+      "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+      "answer": "Sunday"
+    },
+    {
+      "id": "apt-15",
+      "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is two-thirds of the number of students of 8 years of age, which is 48. What is the total number of students in the school?",
+      "options": ["72", "80", "120", "150", "100"],
+      "answer": "100"
+    },
+    {
+      "id": "apt-16",
+      "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work be finished?",
+      "options": ["11:30 A.M.", "12 noon", "12:30 P.M.", "1:00 P.M."],
+      "answer": "1:00 P.M."
+    },
+    {
+      "id": "apt-17",
+      "question": "A farmer travelled a distance of 61 km in 9 hours. He travelled partly on foot at 4 km/hr and partly on bicycle at 9 km/hr. The distance travelled on foot is:",
+      "options": ["14 km", "15 km", "16 km", "17 km"],
+      "answer": "16 km"
+    },
+    {
+      "id": "apt-18",
+      "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B Rs. 8400 for 5 months and C Rs. 10,000 for 3 months. A was to receive 5% of the profits as the working member. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+      "options": ["Rs. 1900", "Rs. 2660", "Rs. 2800", "Rs. 2840"],
+      "answer": "Rs. 2660"
+    },
+    {
+      "id": "apt-19",
+      "question": "Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+      "options": ["36", "45", "48", "49"],
+      "answer": "48"
+    },
+    {
+      "id": "apt-20",
+      "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+      "options": ["35", "40", "45", "50"],
+      "answer": "40"
+    },
+    {
+      "id": "apt-21",
+      "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+      "options": ["3.5", "4.5", "5.6", "6.5"],
+      "answer": "5.6"
+    },
+    {
+      "id": "apt-22",
+      "question": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+      "options": ["10%", "10.25%", "10.5%", "None of these"],
+      "answer": "10.25%"
+    },
+    {
+      "id": "apt-23",
+      "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+      "options": ["Rs. 2000", "Rs. 2200", "Rs. 2400", "Data inadequate"],
+      "answer": "Rs. 2000"
+    },
+    {
+      "id": "apt-24",
+      "question": "A watch which gains uniformly is 2 minutes low at noon on Monday and is 4 min. 48 sec fast at 2 p.m. on the following Monday. When was it correct?",
+      "options": ["2 p.m. on Tuesday", "2 p.m. on Wednesday", "3 p.m. on Thursday", "1 p.m. on Friday"],
+      "answer": "2 p.m. on Wednesday"
+    },
+    {
+      "id": "apt-25",
+      "question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30 degrees with the man's eye. The man walks some distance towards the tower to watch its top and the angle of elevation becomes 60 degrees. What is the distance between the base of the tower and the point P?",
+      "options": ["4 root 3", "8 units", "12 units", "Data inadequate", "None of these"],
+      "answer": "Data inadequate"
+    },
+    {
+      "id": "apt-26",
+      "question": "A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",
+      "options": ["6 hours", "10 hours", "15 hours", "30 hours"],
+      "answer": "15 hours"
+    },
+    {
+      "id": "apt-27",
+      "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast as the other, then the speed of the faster train is:",
+      "options": ["30 km/hr", "45 km/hr", "60 km/hr", "75 km/hr"],
+      "answer": "60 km/hr"
+    },
+    {
+      "id": "apt-28",
+      "question": "What will be the ratio of simple interest earned by a certain amount at the same rate of interest for 6 years and that for 9 years?",
+      "options": ["1 : 3", "1 : 4", "2 : 3", "Data inadequate", "None of these"],
+      "answer": "2 : 3"
+    },
+    {
+      "id": "apt-29",
+      "question": "Find the odd man out: 331, 482, 551, 263, 383, 362, 284",
+      "options": ["263", "383", "331", "551"],
+      "answer": "331"
+    },
+    {
+      "id": "apt-30",
+      "question": "At a game of billiards, A can give B 15 points in 60 and A can give C 20 points in 60. How many points can B give C in a game of 90?",
+      "options": ["30 points", "20 points", "10 points", "12 points"],
+      "answer": "10 points"
+    },
+    {
+      "id": "apt-31",
+      "question": "A man invests some money partly in 9% stock at 96 and partly in 12% stock at 120. To obtain equal dividends from both, he must invest the money in the ratio:",
+      "options": ["3 : 4", "3 : 5", "4 : 5", "16 : 15"],
+      "answer": "16 : 15"
+    },
+    {
+      "id": "apt-32",
+      "question": "The compound interest on a certain sum for 2 years at 10% per annum is Rs. 525. The simple interest on the same sum for double the time at half the rate percent per annum is:",
+      "options": ["Rs. 400", "Rs. 500", "Rs. 600", "Rs. 800"],
+      "answer": "Rs. 500"
+    },
+    {
+      "id": "apt-33",
+      "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at twice the former rate. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+      "options": ["3.6%", "4.5%", "5%", "6%", "None of these"],
+      "answer": "3.6%"
+    },
+    {
+      "id": "apt-34",
+      "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+      "options": ["5 sec", "6 sec", "7 sec", "10 sec"],
+      "answer": "6 sec"
+    },
+    {
+      "id": "apt-35",
+      "question": "A train travelling at a speed of 75 mph enters a tunnel 3.5 miles long. The train is 0.25 mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+      "options": ["2.5 min", "3 min", "3.2 min", "3.5 min"],
+      "answer": "3 min"
+    },
+    {
+      "id": "apt-36",
+      "question": "Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",
+      "options": ["12", "14", "27", "53"],
+      "answer": "14"
+    },
+    {
+      "id": "apt-37",
+      "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+      "options": ["Rs. 2160", "Rs. 3120", "Rs. 3972", "Rs. 6240", "None of these"],
+      "answer": "Rs. 3972"
+    },
+    {
+      "id": "apt-38",
+      "question": "The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",
+      "options": ["9000", "9400", "9600", "9800"],
+      "answer": "9600"
+    },
+    {
+      "id": "apt-39",
+      "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+      "options": ["0 degrees", "10 degrees", "5 degrees", "20 degrees"],
+      "answer": "10 degrees"
+    },
+    {
+      "id": "apt-40",
+      "question": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+      "options": ["Sunday", "Thursday", "Tuesday", "Friday"],
+      "answer": "Friday"
+    },
+    {
+      "id": "apt-41",
+      "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+      "options": ["76 kg", "76.5 kg", "85 kg", "Data inadequate", "None of these"],
+      "answer": "85 kg"
+    },
+    {
+      "id": "apt-42",
+      "question": "The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+      "options": ["16 cm", "18 cm", "24 cm", "Data inadequate", "None of these"],
+      "answer": "18 cm"
+    },
+    {
+      "id": "apt-43",
+      "question": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3, then the weight of the pipe is:",
+      "options": ["3.6 kg", "3.696 kg", "36 kg", "36.9 kg"],
+      "answer": "3.696 kg"
+    },
+    {
+      "id": "apt-44",
+      "question": "A large cube is formed from the material obtained by melting three smaller cubes of 3, 4 and 5 cm side. What is the ratio of the total surface areas of the smaller cubes and the large cube?",
+      "options": ["2 : 1", "3 : 2", "25 : 18", "27 : 20"],
+      "answer": "25 : 18"
+    },
+    {
+      "id": "apt-45",
+      "question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+      "options": ["159", "194", "205", "209", "None of these"],
+      "answer": "209"
+    },
+    {
+      "id": "apt-46",
+      "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+      "options": ["32", "48", "64", "96", "None of these"],
+      "answer": "64"
+    },
+    {
+      "id": "apt-47",
+      "question": "The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot at Rs. 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",
+      "options": ["40", "50", "120", "Data inadequate", "None of these"],
+      "answer": "None of these"
+    },
+    {
+      "id": "apt-48",
+      "question": "In how many different ways can the letters of the word DETAIL be arranged in such a way that the vowels occupy only the odd positions?",
+      "options": ["72", "48", "36", "60", "120"],
+      "answer": "36"
+    },
+    {
+      "id": "apt-49",
+      "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+      "options": ["3", "4", "9", "Cannot be determined", "None of these"],
+      "answer": "4"
+    },
+    {
+      "id": "apt-50",
+      "question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and the speed of the water current respectively?",
+      "options": ["2 : 1", "3 : 2", "8 : 3", "Cannot be determined", "None of these"],
+      "answer": "8 : 3"
+    },
+    {
+      "id": "apt-51",
+      "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water is:",
+      "options": ["3 km/hr", "5 km/hr", "8 km/hr", "9 km/hr"],
+      "answer": "8 km/hr"
+    },
+    {
+      "id": "apt-52",
+      "question": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+      "options": ["Rs. 500", "Rs. 1500", "Rs. 2000", "None of these"],
+      "answer": "Rs. 2000"
+    },
+    {
+      "id": "apt-53",
+      "question": "The least perfect square, which is divisible by each of 21, 36 and 66 is:",
+      "options": ["213444", "214344", "214434", "231444"],
+      "answer": "213444"
+    },
+    {
+      "id": "apt-54",
+      "question": "Aman started a business investing Rs. 70,000. Rakhi joined him after six months with Rs. 1,05,000 and Sagar joined them with Rs. 1.4 lakhs after another six months. The amount of profit earned should be distributed in what ratio among Aman, Rakhi and Sagar respectively, 3 years after Aman started the business?",
+      "options": ["7 : 6 : 10", "12 : 15 : 16", "42 : 45 : 56", "Cannot be determined"],
+      "answer": "12 : 15 : 16"
+    },
+    {
+      "id": "apt-55",
+      "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+      "options": ["276", "299", "322", "345"],
+      "answer": "322"
+    }
+    
+  ]
+}

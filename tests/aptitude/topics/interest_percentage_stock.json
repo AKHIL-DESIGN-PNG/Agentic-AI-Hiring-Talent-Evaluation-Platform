@@ -1,0 +1,121 @@
+{
+  "section": "Aptitude",
+  "topic": "Interest Percentage Stock",
+  "questions": [
+    {
+      "id": "apt-1",
+      "question": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
+      "options": [
+        "Rs. 4991",
+        "Rs. 5991",
+        "Rs. 6001",
+        "Rs. 6991"
+      ],
+      "answer": "Rs. 4991"
+    },
+    {
+      "id": "apt-12",
+      "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+      "options": [
+        "A is smaller than B.",
+        "A is greater than B",
+        "Relationship between A and B cannot be determined.",
+        "If x is smaller than y, then A is greater than B.",
+        "None of these"
+      ],
+      "answer": "None of these"
+    },
+    {
+      "id": "apt-15",
+      "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is two-thirds of the number of students of 8 years of age, which is 48. What is the total number of students in the school?",
+      "options": [
+        "72",
+        "80",
+        "120",
+        "150",
+        "100"
+      ],
+      "answer": "100"
+    },
+    {
+      "id": "apt-22",
+      "question": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+      "options": [
+        "10%",
+        "10.25%",
+        "10.5%",
+        "None of these"
+      ],
+      "answer": "10.25%"
+    },
+    {
+      "id": "apt-23",
+      "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+      "options": [
+        "Rs. 2000",
+        "Rs. 2200",
+        "Rs. 2400",
+        "Data inadequate"
+      ],
+      "answer": "Rs. 2000"
+    },
+    {
+      "id": "apt-28",
+      "question": "What will be the ratio of simple interest earned by a certain amount at the same rate of interest for 6 years and that for 9 years?",
+      "options": [
+        "1 : 3",
+        "1 : 4",
+        "2 : 3",
+        "Data inadequate",
+        "None of these"
+      ],
+      "answer": "2 : 3"
+    },
+    {
+      "id": "apt-31",
+      "question": "A man invests some money partly in 9% stock at 96 and partly in 12% stock at 120. To obtain equal dividends from both, he must invest the money in the ratio:",
+      "options": [
+        "3 : 4",
+        "3 : 5",
+        "4 : 5",
+        "16 : 15"
+      ],
+      "answer": "16 : 15"
+    },
+    {
+      "id": "apt-32",
+      "question": "The compound interest on a certain sum for 2 years at 10% per annum is Rs. 525. The simple interest on the same sum for double the time at half the rate percent per annum is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 500",
+        "Rs. 600",
+        "Rs. 800"
+      ],
+      "answer": "Rs. 500"
+    },
+    {
+      "id": "apt-33",
+      "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at twice the former rate. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+      "options": [
+        "3.6%",
+        "4.5%",
+        "5%",
+        "6%",
+        "None of these"
+      ],
+      "answer": "3.6%"
+    },
+    {
+      "id": "apt-37",
+      "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+      "options": [
+        "Rs. 2160",
+        "Rs. 3120",
+        "Rs. 3972",
+        "Rs. 6240",
+        "None of these"
+      ],
+      "answer": "Rs. 3972"
+    }
+  ]
+}

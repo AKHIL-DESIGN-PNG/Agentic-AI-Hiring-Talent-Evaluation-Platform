@@ -1,0 +1,159 @@
+{
+  "role": "Fallback Software Engineer",
+  "must_have_skills": ["Problem Solving", "Programming"],
+  "good_to_have_skills": ["Testing", "Debugging"],
+  "experience_required": "Not specified",
+  "languages": ["python", "java", "cpp", "javascript"],
+  "sections": {
+    "numerical_reasoning": {
+      "section": "Numerical Reasoning",
+      "questions": [
+        {"id": "n1", "passage": "", "question": "A team resolves 18 bugs on Monday and 24 on Tuesday. How many bugs were resolved in total?", "options": ["38", "40", "42", "44"], "answer": "42", "explanation": "18 + 24 = 42."},
+        {"id": "n2", "passage": "", "question": "A sprint planned 50 points and completed 40. What percentage was completed?", "options": ["70%", "75%", "80%", "85%"], "answer": "80%", "explanation": "40/50 = 80%."},
+        {"id": "n3", "passage": "", "question": "A server handles 90 requests in 6 minutes. At the same rate, how many in 10 minutes?", "options": ["120", "135", "150", "180"], "answer": "150", "explanation": "15 per minute for 10 minutes."},
+        {"id": "n4", "passage": "", "question": "The ratio of passed to failed test cases is 7:3. If 21 test cases failed, how many passed?", "options": ["42", "45", "49", "63"], "answer": "49", "explanation": "One part is 7, so passed are 49."},
+        {"id": "n5", "passage": "", "question": "A process takes 12 seconds per file. How long for 15 files?", "options": ["120", "150", "180", "210"], "answer": "180", "explanation": "12 x 15 = 180."},
+        {"id": "n6", "passage": "", "question": "Latency drops from 300 ms to 240 ms. What is the percentage decrease?", "options": ["15%", "20%", "25%", "30%"], "answer": "20%", "explanation": "60/300 = 20%."},
+        {"id": "n7", "passage": "", "question": "Four developers finish 16 reviews in 2 hours. At the same rate, how many reviews can 3 developers finish in 3 hours?", "options": ["12", "18", "20", "24"], "answer": "18", "explanation": "Each dev does 2 reviews per hour."},
+        {"id": "n8", "passage": "", "question": "A bill rises by 10% and then falls by 10%. Starting at 200, what is the final value?", "options": ["198", "200", "202", "220"], "answer": "198", "explanation": "200 x 1.1 x 0.9 = 198."},
+        {"id": "n9", "passage": "", "question": "Each module has 5 APIs and each API has 4 tests. For 3 modules, how many tests are needed?", "options": ["45", "50", "60", "75"], "answer": "60", "explanation": "3 x 5 x 4 = 60."},
+        {"id": "n10", "passage": "", "question": "A candidate answered 21 of 28 questions correctly. What is the accuracy?", "options": ["70%", "75%", "80%", "85%"], "answer": "75%", "explanation": "21/28 = 75%."}
+      ]
+    },
+    "verbal_reasoning": {
+      "section": "Verbal Reasoning",
+      "questions": [
+        {"id": "v1", "passage": "", "question": "Choose the correct sentence.", "options": ["The logs arrives daily.", "The logs arrive daily.", "The logs arriving daily.", "The logs has arrived daily."], "answer": "The logs arrive daily.", "explanation": "Plural subject takes plural verb."},
+        {"id": "v2", "passage": "All shortlisted candidates complete the coding assessment.", "question": "Which conclusion follows?", "options": ["Every applicant completes it", "Some candidates may not complete it", "No candidate completes it", "Interviewers complete it"], "answer": "Some candidates may not complete it", "explanation": "Only shortlisted candidates are guaranteed to complete it."},
+        {"id": "v3", "passage": "", "question": "Arrange the parts: 1. the team rolled back 2. after the alert fired 3. because the release failed", "options": ["2-1-3", "1-2-3", "3-2-1", "2-3-1"], "answer": "2-1-3", "explanation": "The sequence is event, action, reason."},
+        {"id": "v4", "passage": "The portal is open only to invited candidates.", "question": "Which statement is correct?", "options": ["Everyone can access it", "Only some people can access it", "Nobody can access it", "Only reviewers can access it"], "answer": "Only some people can access it", "explanation": "Invited candidates are a subset."},
+        {"id": "v5", "passage": "", "question": "Which sentence is clearest?", "options": ["Tomorrow maybe we deploy.", "We will deploy tomorrow.", "Deploy tomorrow we maybe.", "Maybe deploy tomorrow will we."], "answer": "We will deploy tomorrow.", "explanation": "It is direct and grammatical."},
+        {"id": "v6", "passage": "", "question": "The note is concise, specific, and deadline-driven. What is the tone?", "options": ["Casual", "Urgent and professional", "Humorous", "Angry"], "answer": "Urgent and professional", "explanation": "The wording is direct and formal."},
+        {"id": "v7", "passage": "", "question": "Choose the best replacement: 'The engineer fixed the bug quick.'", "options": ["quickly", "quickness", "quicken", "quicked"], "answer": "quickly", "explanation": "An adverb is required."},
+        {"id": "v8", "passage": "If the build is green, the release can proceed.", "question": "The build is green. What follows?", "options": ["The release can proceed", "The release is cancelled", "Testing failed", "Cannot say"], "answer": "The release can proceed", "explanation": "Direct conditional inference."},
+        {"id": "v9", "passage": "", "question": "Which sentence fits a professional status update?", "options": ["Stuff broke again.", "The issue was reproduced and fixed in staging.", "No idea what happened.", "Maybe someone solved it."], "answer": "The issue was reproduced and fixed in staging.", "explanation": "It is precise and professional."},
+        {"id": "v10", "passage": "", "question": "Choose the correct correction: 'Each candidate have a deadline.'", "options": ["Each candidate have a deadline.", "Each candidate has a deadline.", "Each candidate having a deadline.", "Each candidates has a deadline."], "answer": "Each candidate has a deadline.", "explanation": "Singular subject takes 'has'."}
+      ]
+    },
+    "abstract_reasoning": {
+      "section": "Abstract Reasoning",
+      "questions": [
+        {"id": "a1", "passage": "", "question": "Series: 3, 6, 12, 24, ?", "options": ["30", "36", "42", "48"], "answer": "48", "explanation": "The number doubles each time."},
+        {"id": "a2", "passage": "", "question": "Pattern: triangle, square, pentagon, ?", "options": ["Hexagon", "Heptagon", "Octagon", "Circle"], "answer": "Hexagon", "explanation": "One more side is added each step."},
+        {"id": "a3", "passage": "", "question": "Sequence: A2, C4, E6, ?", "options": ["F7", "G8", "H9", "I10"], "answer": "G8", "explanation": "Both letter and number advance by 2."},
+        {"id": "a4", "passage": "", "question": "If CODE becomes DPEF, then BUG becomes:", "options": ["CVH", "CVG", "CUG", "DVH"], "answer": "CVH", "explanation": "Each character shifts by one."},
+        {"id": "a5", "passage": "", "question": "Find the next pair: (2,4), (3,9), (4,16), ?", "options": ["(5,20)", "(5,25)", "(6,30)", "(6,36)"], "answer": "(5,25)", "explanation": "The second value is the square of the first."},
+        {"id": "a6", "passage": "", "question": "Circle is to sphere as square is to ?", "options": ["Cone", "Cube", "Prism", "Cylinder"], "answer": "Cube", "explanation": "A square extends to a cube in 3D."},
+        {"id": "a7", "passage": "", "question": "Series: Z, W, S, N, ?", "options": ["H", "I", "J", "K"], "answer": "H", "explanation": "The letter steps back by 3, 4, 5, then 6."},
+        {"id": "a8", "passage": "", "question": "Sequence: 1, 1, 2, 3, 5, ?", "options": ["6", "7", "8", "9"], "answer": "8", "explanation": "Each term is the sum of the previous two."},
+        {"id": "a9", "passage": "", "question": "If black always follows two white nodes, what comes next in white, white, black, white, white, black, ?", "options": ["White", "Black", "Grey", "Cannot say"], "answer": "White", "explanation": "The three-item pattern repeats."},
+        {"id": "a10", "passage": "", "question": "API is to service as screen is to ?", "options": ["Button", "Interface", "Array", "Compiler"], "answer": "Interface", "explanation": "The relation is part to larger interaction surface."}
+      ]
+    },
+    "coding_mcq": {
+      "section": "Coding MCQ",
+      "questions": [
+        {"id": "c1", "passage": "", "question": "Python: What is the output of print([1,2,3][-1])?", "options": ["1", "2", "3", "Error"], "answer": "3", "explanation": "Negative index -1 refers to the last element."},
+        {"id": "c2", "passage": "", "question": "Java: What does 5 / 2 print when both operands are int?", "options": ["2", "2.5", "3", "Error"], "answer": "2", "explanation": "Integer division truncates."},
+        {"id": "c3", "passage": "", "question": "C++: Average complexity of vector.push_back is:", "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"], "answer": "O(1)", "explanation": "It is amortized constant time."},
+        {"id": "c4", "passage": "", "question": "JavaScript: What is the output of 2 + '3'?", "options": ["5", "23", "6", "Error"], "answer": "23", "explanation": "String concatenation occurs."},
+        {"id": "c5", "passage": "", "question": "Python: Which is the key edge case before reading s[0]?", "options": ["Long string", "Empty string", "Uppercase string", "Sorted string"], "answer": "Empty string", "explanation": "Index access fails for empty strings."},
+        {"id": "c6", "passage": "", "question": "Java: Which check avoids NullPointerException on map.get(key).length()?", "options": ["Check for null", "Sort the map", "Convert to array", "Use static method"], "answer": "Check for null", "explanation": "The value can be null."},
+        {"id": "c7", "passage": "", "question": "C++: What does string s = 'api'; do?", "options": ["Valid string", "Compile error", "Prints api", "Creates char array"], "answer": "Compile error", "explanation": "Single quotes do not create a string literal."},
+        {"id": "c8", "passage": "", "question": "JavaScript: Which input may break code that calls value.trim() directly?", "options": ["Array", "Null", "String", "Number 5"], "answer": "Null", "explanation": "null has no trim method."},
+        {"id": "c9", "passage": "", "question": "Python: Membership test in a set is usually:", "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"], "answer": "O(1)", "explanation": "Hash lookup is constant on average."},
+        {"id": "c10", "passage": "", "question": "Java: What does 'api'.charAt(1) return?", "options": ["a", "p", "i", "Error"], "answer": "p", "explanation": "Index 1 is the second character."},
+        {"id": "c11", "passage": "", "question": "C++: Which condition is risky for a one-element array?", "options": ["left <= right", "left < right", "i < n", "n > 0"], "answer": "left < right", "explanation": "The middle element may never be processed."},
+        {"id": "c12", "passage": "", "question": "JavaScript: Which is the output of [10,20,30][1]?", "options": ["10", "20", "30", "undefined"], "answer": "20", "explanation": "Index 1 is the second element."},
+        {"id": "c13", "passage": "", "question": "Python: len([1,2].append([3,4])) returns:", "options": ["2", "3", "4", "Error"], "answer": "Error", "explanation": "append returns None, so len(None) fails."},
+        {"id": "c14", "passage": "", "question": "Java: HashMap.get average complexity is:", "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"], "answer": "O(1)", "explanation": "HashMap lookup is constant on average."},
+        {"id": "c15", "passage": "", "question": "C++: string s = \"cloud\"; s.size() returns:", "options": ["4", "5", "6", "7"], "answer": "5", "explanation": "cloud has five characters."},
+        {"id": "c16", "passage": "", "question": "JavaScript: Which change avoids reading undefined.length?", "options": ["Type cast", "Null/undefined guard", "Use var", "Use while"], "answer": "Null/undefined guard", "explanation": "Guard before property access."},
+        {"id": "c17", "passage": "", "question": "Python: What does count become in 'abba' when incremented for each 'a'?", "options": ["1", "2", "3", "4"], "answer": "2", "explanation": "There are two a characters."},
+        {"id": "c18", "passage": "", "question": "Java: Sum of 1 through 3 in a for loop is:", "options": ["3", "5", "6", "7"], "answer": "6", "explanation": "1 + 2 + 3 = 6."},
+        {"id": "c19", "passage": "", "question": "C++: 7 % 4 evaluates to:", "options": ["1", "2", "3", "4"], "answer": "3", "explanation": "Remainder is 3."},
+        {"id": "c20", "passage": "", "question": "JavaScript: for (const n of [1,2,3]) total += n results in:", "options": ["3", "5", "6", "7"], "answer": "6", "explanation": "The values sum to 6."},
+        {"id": "c21", "passage": "", "question": "Python: Which structure is best for unique membership checks?", "options": ["list", "tuple", "set", "string"], "answer": "set", "explanation": "Sets provide constant-time average lookup."},
+        {"id": "c22", "passage": "", "question": "Java: Which test case best checks loop boundary bugs?", "options": ["Large array", "Sorted array", "Single-element input", "Random input"], "answer": "Single-element input", "explanation": "Boundary issues surface quickly on size 1."}
+      ]
+    },
+    "coding_problem_1": {
+      "title": "Longest Success Streak",
+      "difficulty": "Easy",
+      "description": "Given a string where 'S' means success and 'F' means failure, return the length of the longest consecutive streak of 'S'.",
+      "method_name": "longestSuccessStreak",
+      "supported_languages": ["java", "python", "cpp", "javascript"],
+      "starter_code_by_language": {
+        "java": "class Solution {\n    public int longestSuccessStreak(String events) {\n        \n    }\n}\n",
+        "python": "class Solution:\n    def longestSuccessStreak(self, events: str) -> int:\n        pass\n",
+        "cpp": "#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    int longestSuccessStreak(string events) {\n        \n    }\n};\n",
+        "javascript": "class Solution {\n  longestSuccessStreak(events) {\n    \n  }\n}\n"
+      },
+      "examples": [
+        {"title": "Example 1", "input": "events = \"SSFSSSSFF\"", "output": "4", "explanation": "The longest success streak is SSSS."}
+      ],
+      "testcases": [
+        {"label": "Case 1", "input_label": "events", "input": "\"SSFSSSSFF\"", "output": "4"},
+        {"label": "Case 2", "input_label": "events", "input": "\"FFFF\"", "output": "0"},
+        {"label": "Case 3", "input_label": "events", "input": "\"SSSS\"", "output": "4"}
+      ],
+      "hidden_tests": [
+        {"label": "Case 4", "input_label": "events", "input": "\"SFSFSF\"", "output": "1"},
+        {"label": "Case 5", "input_label": "events", "input": "\"\"", "output": "0"}
+      ],
+      "reference_solver_key": "longest_success_streak"
+    },
+    "coding_problem_2": {
+      "title": "Minimum Alternating Edits",
+      "difficulty": "Medium",
+      "description": "Given a string made of only 'A' and 'B', return the minimum number of edits needed to make it alternate like ABAB or BABA.",
+      "method_name": "minAlternatingEdits",
+      "supported_languages": ["java", "python", "cpp", "javascript"],
+      "starter_code_by_language": {
+        "java": "class Solution {\n    public int minAlternatingEdits(String slots) {\n        \n    }\n}\n",
+        "python": "class Solution:\n    def minAlternatingEdits(self, slots: str) -> int:\n        pass\n",
+        "cpp": "#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    int minAlternatingEdits(string slots) {\n        \n    }\n};\n",
+        "javascript": "class Solution {\n  minAlternatingEdits(slots) {\n    \n  }\n}\n"
+      },
+      "examples": [
+        {"title": "Example 1", "input": "slots = \"AABA\"", "output": "1", "explanation": "One edit can make the pattern alternate."}
+      ],
+      "testcases": [
+        {"label": "Case 1", "input_label": "slots", "input": "\"AABA\"", "output": "1"},
+        {"label": "Case 2", "input_label": "slots", "input": "\"ABAB\"", "output": "0"},
+        {"label": "Case 3", "input_label": "slots", "input": "\"AAAA\"", "output": "2"}
+      ],
+      "hidden_tests": [
+        {"label": "Case 4", "input_label": "slots", "input": "\"BBAA\"", "output": "2"},
+        {"label": "Case 5", "input_label": "slots", "input": "\"B\"", "output": "0"}
+      ],
+      "reference_solver_key": "min_alternating_edits"
+    },
+    "coding_problem_3": {
+      "title": "Longest Distinct Window",
+      "difficulty": "Hard",
+      "description": "Given a string, return the length of the longest contiguous substring without repeating characters.",
+      "method_name": "longestDistinctWindow",
+      "supported_languages": ["java", "python", "cpp", "javascript"],
+      "starter_code_by_language": {
+        "java": "class Solution {\n    public int longestDistinctWindow(String stream) {\n        \n    }\n}\n",
+        "python": "class Solution:\n    def longestDistinctWindow(self, stream: str) -> int:\n        pass\n",
+        "cpp": "#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    int longestDistinctWindow(string stream) {\n        \n    }\n};\n",
+        "javascript": "class Solution {\n  longestDistinctWindow(stream) {\n    \n  }\n}\n"
+      },
+      "examples": [
+        {"title": "Example 1", "input": "stream = \"abcabcbb\"", "output": "3", "explanation": "The longest distinct window is abc."}
+      ],
+      "testcases": [
+        {"label": "Case 1", "input_label": "stream", "input": "\"abcabcbb\"", "output": "3"},
+        {"label": "Case 2", "input_label": "stream", "input": "\"bbbbb\"", "output": "1"},
+        {"label": "Case 3", "input_label": "stream", "input": "\"pwwkew\"", "output": "3"}
+      ],
+      "hidden_tests": [
+        {"label": "Case 4", "input_label": "stream", "input": "\" \"", "output": "1"},
+        {"label": "Case 5", "input_label": "stream", "input": "\"\"", "output": "0"}
+      ],
+      "reference_solver_key": "longest_distinct_window"
+    }
+  }
+}

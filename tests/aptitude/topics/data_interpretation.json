@@ -1,0 +1,66 @@
+{
+  "section": "Aptitude",
+  "topic": "Data Interpretation",
+  "questions": [
+    {
+      "id": "apt-56",
+      "passage": "Expenditures of a Company (in lakh rupees) per annum: 1998 -> Salary 288, Fuel and Transport 98, Bonus 3.00, Interest on Loans 23.4, Taxes 83. 1999 -> Salary 342, Fuel and Transport 112, Bonus 2.52, Interest on Loans 32.5, Taxes 108. 2000 -> Salary 324, Fuel and Transport 101, Bonus 3.84, Interest on Loans 41.6, Taxes 74. 2001 -> Salary 336, Fuel and Transport 133, Bonus 3.68, Interest on Loans 36.4, Taxes 88. 2002 -> Salary 420, Fuel and Transport 142, Bonus 3.96, Interest on Loans 49.4, Taxes 98.",
+      "question": "What is the average amount of interest per year which the company had to pay during this period?",
+      "options": [
+        "Rs. 32.43 lakhs",
+        "Rs. 33.72 lakhs",
+        "Rs. 34.18 lakhs",
+        "Rs. 36.66 lakhs"
+      ],
+      "answer": "Rs. 36.66 lakhs"
+    },
+    {
+      "id": "apt-57",
+      "passage": "Expenditures of a Company (in lakh rupees) per annum: 1998 -> Salary 288, Fuel and Transport 98, Bonus 3.00, Interest on Loans 23.4, Taxes 83. 1999 -> Salary 342, Fuel and Transport 112, Bonus 2.52, Interest on Loans 32.5, Taxes 108. 2000 -> Salary 324, Fuel and Transport 101, Bonus 3.84, Interest on Loans 41.6, Taxes 74. 2001 -> Salary 336, Fuel and Transport 133, Bonus 3.68, Interest on Loans 36.4, Taxes 88. 2002 -> Salary 420, Fuel and Transport 142, Bonus 3.96, Interest on Loans 49.4, Taxes 98.",
+      "question": "The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?",
+      "options": [
+        "0.1%",
+        "0.5%",
+        "1%",
+        "1.25%"
+      ],
+      "answer": "1%"
+    },
+    {
+      "id": "apt-58",
+      "passage": "Expenditures of a Company (in lakh rupees) per annum: 1998 -> Salary 288, Fuel and Transport 98, Bonus 3.00, Interest on Loans 23.4, Taxes 83. 1999 -> Salary 342, Fuel and Transport 112, Bonus 2.52, Interest on Loans 32.5, Taxes 108. 2000 -> Salary 324, Fuel and Transport 101, Bonus 3.84, Interest on Loans 41.6, Taxes 74. 2001 -> Salary 336, Fuel and Transport 133, Bonus 3.68, Interest on Loans 36.4, Taxes 88. 2002 -> Salary 420, Fuel and Transport 142, Bonus 3.96, Interest on Loans 49.4, Taxes 98.",
+      "question": "Total expenditure on all these items in 1998 was approximately what percent of the total expenditure in 2002?",
+      "options": [
+        "62%",
+        "66%",
+        "69%",
+        "71%"
+      ],
+      "answer": "69%"
+    },
+    {
+      "id": "apt-59",
+      "passage": "Expenditures of a Company (in lakh rupees) per annum: 1998 -> Salary 288, Fuel and Transport 98, Bonus 3.00, Interest on Loans 23.4, Taxes 83. 1999 -> Salary 342, Fuel and Transport 112, Bonus 2.52, Interest on Loans 32.5, Taxes 108. 2000 -> Salary 324, Fuel and Transport 101, Bonus 3.84, Interest on Loans 41.6, Taxes 74. 2001 -> Salary 336, Fuel and Transport 133, Bonus 3.68, Interest on Loans 36.4, Taxes 88. 2002 -> Salary 420, Fuel and Transport 142, Bonus 3.96, Interest on Loans 49.4, Taxes 98.",
+      "question": "The total expenditure of the company over these items during the year 2000 is?",
+      "options": [
+        "Rs. 544.44 lakhs",
+        "Rs. 501.11 lakhs",
+        "Rs. 446.46 lakhs",
+        "Rs. 478.87 lakhs"
+      ],
+      "answer": "Rs. 544.44 lakhs"
+    },
+    {
+      "id": "apt-60",
+      "passage": "Expenditures of a Company (in lakh rupees) per annum: 1998 -> Salary 288, Fuel and Transport 98, Bonus 3.00, Interest on Loans 23.4, Taxes 83. 1999 -> Salary 342, Fuel and Transport 112, Bonus 2.52, Interest on Loans 32.5, Taxes 108. 2000 -> Salary 324, Fuel and Transport 101, Bonus 3.84, Interest on Loans 41.6, Taxes 74. 2001 -> Salary 336, Fuel and Transport 133, Bonus 3.68, Interest on Loans 36.4, Taxes 88. 2002 -> Salary 420, Fuel and Transport 142, Bonus 3.96, Interest on Loans 49.4, Taxes 98.",
+      "question": "The ratio between the total expenditure on Taxes for all the years and the total expenditure on Fuel and Transport for all the years respectively is approximately?",
+      "options": [
+        "4:7",
+        "10:13",
+        "15:18",
+        "5:8"
+      ],
+      "answer": "10:13"
+    }
+  ]
+}

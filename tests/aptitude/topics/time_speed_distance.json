@@ -1,0 +1,128 @@
+{
+  "section": "Aptitude",
+  "topic": "Time Speed Distance",
+  "questions": [
+    {
+      "id": "apt-3",
+      "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "120 metres",
+        "180 metres",
+        "324 metres",
+        "150 metres"
+      ],
+      "answer": "150 metres"
+    },
+    {
+      "id": "apt-7",
+      "question": "Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+      "options": [
+        "8 kmph",
+        "11 kmph",
+        "12 kmph",
+        "14 kmph"
+      ],
+      "answer": "12 kmph"
+    },
+    {
+      "id": "apt-11",
+      "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+      "options": [
+        "1 : 3",
+        "3 : 2",
+        "3 : 4",
+        "None of these"
+      ],
+      "answer": "3 : 2"
+    },
+    {
+      "id": "apt-16",
+      "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work be finished?",
+      "options": [
+        "11:30 A.M.",
+        "12 noon",
+        "12:30 P.M.",
+        "1:00 P.M."
+      ],
+      "answer": "1:00 P.M."
+    },
+    {
+      "id": "apt-17",
+      "question": "A farmer travelled a distance of 61 km in 9 hours. He travelled partly on foot at 4 km/hr and partly on bicycle at 9 km/hr. The distance travelled on foot is:",
+      "options": [
+        "14 km",
+        "15 km",
+        "16 km",
+        "17 km"
+      ],
+      "answer": "16 km"
+    },
+    {
+      "id": "apt-19",
+      "question": "Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+      "options": [
+        "36",
+        "45",
+        "48",
+        "49"
+      ],
+      "answer": "48"
+    },
+    {
+      "id": "apt-27",
+      "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast as the other, then the speed of the faster train is:",
+      "options": [
+        "30 km/hr",
+        "45 km/hr",
+        "60 km/hr",
+        "75 km/hr"
+      ],
+      "answer": "60 km/hr"
+    },
+    {
+      "id": "apt-34",
+      "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+      "options": [
+        "5 sec",
+        "6 sec",
+        "7 sec",
+        "10 sec"
+      ],
+      "answer": "6 sec"
+    },
+    {
+      "id": "apt-35",
+      "question": "A train travelling at a speed of 75 mph enters a tunnel 3.5 miles long. The train is 0.25 mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+      "options": [
+        "2.5 min",
+        "3 min",
+        "3.2 min",
+        "3.5 min"
+      ],
+      "answer": "3 min"
+    },
+    {
+      "id": "apt-50",
+      "question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and the speed of the water current respectively?",
+      "options": [
+        "2 : 1",
+        "3 : 2",
+        "8 : 3",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "8 : 3"
+    },
+    {
+      "id": "apt-51",
+      "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water is:",
+      "options": [
+        "3 km/hr",
+        "5 km/hr",
+        "8 km/hr",
+        "9 km/hr"
+      ],
+      "answer": "8 km/hr"
+    }
+  ]
+}

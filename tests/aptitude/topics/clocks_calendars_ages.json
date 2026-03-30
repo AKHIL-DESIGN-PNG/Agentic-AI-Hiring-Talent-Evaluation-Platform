@@ -1,0 +1,73 @@
+{
+  "section": "Aptitude",
+  "topic": "Clocks Calendars Ages",
+  "questions": [
+    {
+      "id": "apt-13",
+      "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+      "options": [
+        "14 years",
+        "19 years",
+        "33 years",
+        "38 years"
+      ],
+      "answer": "14 years"
+    },
+    {
+      "id": "apt-14",
+      "question": "What was the day of the week on 28th May, 2006?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": "Sunday"
+    },
+    {
+      "id": "apt-24",
+      "question": "A watch which gains uniformly is 2 minutes low at noon on Monday and is 4 min. 48 sec fast at 2 p.m. on the following Monday. When was it correct?",
+      "options": [
+        "2 p.m. on Tuesday",
+        "2 p.m. on Wednesday",
+        "3 p.m. on Thursday",
+        "1 p.m. on Friday"
+      ],
+      "answer": "2 p.m. on Wednesday"
+    },
+    {
+      "id": "apt-39",
+      "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+      "options": [
+        "0 degrees",
+        "10 degrees",
+        "5 degrees",
+        "20 degrees"
+      ],
+      "answer": "10 degrees"
+    },
+    {
+      "id": "apt-40",
+      "question": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+      "options": [
+        "Sunday",
+        "Thursday",
+        "Tuesday",
+        "Friday"
+      ],
+      "answer": "Friday"
+    },
+    {
+      "id": "apt-41",
+      "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+      "options": [
+        "76 kg",
+        "76.5 kg",
+        "85 kg",
+        "Data inadequate",
+        "None of these"
+      ],
+      "answer": "85 kg"
+    }
+  ]
+}

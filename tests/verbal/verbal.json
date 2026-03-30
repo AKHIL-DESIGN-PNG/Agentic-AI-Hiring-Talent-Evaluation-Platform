@@ -1,0 +1,36 @@
+{
+  "section": "Verbal Ability",
+  "listening_blocks": [
+    {
+      "id": "media-block-1",
+      "title": "Media Block 1",
+      "media_type": "audio",
+      "media_url": "",
+      "transcript": "",
+      "prompt": "Write what you heard or answer the questions about the audio.",
+      "ideal_answer": ""
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "id": "speaking-1",
+      "prompt": "Read the following sentence clearly: Effective communication improves team execution.",
+      "reference_text": "Effective communication improves team execution."
+    }
+  ],
+  "writing_tasks": [
+    {
+      "id": "writing-1",
+      "topic": "Describe a time when clear communication solved a problem in a team.",
+      "min_words": 80
+    }
+  ],
+  "drag_drop_questions": [
+    {
+      "id": "drag-drop-1",
+      "template": "The release was ____ because the team found a ____ issue during final testing.",
+      "options": ["delayed", "critical", "celebrated", "casual"],
+      "answer_order": ["delayed", "critical"]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "section": "Aptitude",
+  "topic": "Series Patterns",
+  "questions": [
+    {
+      "id": "apt-2",
+      "question": "Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",
+      "options": [
+        "22",
+        "24",
+        "25",
+        "26"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": "apt-4",
+      "question": "FAG, GAF, HAI, IAH, ____",
+      "options": [
+        "JAK",
+        "HAL",
+        "HAK",
+        "JAI"
+      ],
+      "answer": "JAK"
+    },
+    {
+      "id": "apt-5",
+      "question": "Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?",
+      "options": [
+        "3",
+        "3.3",
+        "3.5",
+        "3.6"
+      ],
+      "answer": "3.6"
+    },
+    {
+      "id": "apt-10",
+      "question": "Find the odd one out: 10, 25, 45, 54, 60, 75, 80",
+      "options": [
+        "10",
+        "45",
+        "54",
+        "75"
+      ],
+      "answer": "54"
+    },
+    {
+      "id": "apt-29",
+      "question": "Find the odd man out: 331, 482, 551, 263, 383, 362, 284",
+      "options": [
+        "263",
+        "383",
+        "331",
+        "551"
+      ],
+      "answer": "331"
+    },
+    {
+      "id": "apt-36",
+      "question": "Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",
+      "options": [
+        "12",
+        "14",
+        "27",
+        "53"
+      ],
+      "answer": "14"
+    }
+  ]
+}

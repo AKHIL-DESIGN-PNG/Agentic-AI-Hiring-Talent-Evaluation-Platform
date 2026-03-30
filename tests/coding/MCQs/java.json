@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is JVM?",
+    "options": [
+      "Java Compiler",
+      "Java Virtual Machine",
+      "Java Library",
+      "Java Tool"
+    ],
+    "answer": "Java Virtual Machine"
+  },
+  {
+    "id": 2,
+    "question": "JDK includes?",
+    "options": ["JRE only", "Compiler only", "JRE + tools", "JVM only"],
+    "answer": "JRE + tools"
+  },
+  {
+    "id": 3,
+    "question": "Inheritance means?",
+    "options": [
+      "Copying data",
+      "Using parent class properties",
+      "Deleting class",
+      "None"
+    ],
+    "answer": "Using parent class properties"
+  },
+  {
+    "id": 4,
+    "question": "Polymorphism is?",
+    "options": [
+      "Single form",
+      "Many forms",
+      "No form",
+      "Loop"
+    ],
+    "answer": "Many forms"
+  },
+  {
+    "id": 5,
+    "question": "Encapsulation is?",
+    "options": [
+      "Hiding data",
+      "Wrapping data and methods",
+      "Loop",
+      "Thread"
+    ],
+    "answer": "Wrapping data and methods"
+  },
+  {
+    "id": 6,
+    "question": "Abstraction means?",
+    "options": [
+      "Showing all details",
+      "Hiding implementation",
+      "Loop",
+      "Class"
+    ],
+    "answer": "Hiding implementation"
+  },
+  {
+    "id": 7,
+    "question": "Method overloading is?",
+    "options": [
+      "Same name different params",
+      "Different name",
+      "Same class",
+      "Error"
+    ],
+    "answer": "Same name different params"
+  },
+  {
+    "id": 8,
+    "question": "Method overriding is?",
+    "options": [
+      "Same class",
+      "Child redefining parent method",
+      "Loop",
+      "Variable"
+    ],
+    "answer": "Child redefining parent method"
+  },
+  {
+    "id": 9,
+    "question": "Interface contains?",
+    "options": [
+      "Concrete methods",
+      "Abstract methods",
+      "Variables",
+      "Loops"
+    ],
+    "answer": "Abstract methods"
+  },
+  {
+    "id": 10,
+    "question": "Abstract class cannot?",
+    "options": [
+      "Run",
+      "Compile",
+      "Instantiate",
+      "Extend"
+    ],
+    "answer": "Instantiate"
+  },
+  {
+    "id": 11,
+    "question": "ArrayList vs LinkedList?",
+    "options": [
+      "Same",
+      "ArrayList faster access",
+      "LinkedList faster access",
+      "None"
+    ],
+    "answer": "ArrayList faster access"
+  },
+  {
+    "id": 12,
+    "question": "Exception handling uses?",
+    "options": ["if", "for", "try-catch", "while"],
+    "answer": "try-catch"
+  },
+  {
+    "id": 13,
+    "question": "final keyword?",
+    "options": [
+      "Allows override",
+      "Prevents modification",
+      "Loop",
+      "Class"
+    ],
+    "answer": "Prevents modification"
+  },
+  {
+    "id": 14,
+    "question": "static keyword?",
+    "options": [
+      "Instance level",
+      "Class level",
+      "Loop",
+      "Thread"
+    ],
+    "answer": "Class level"
+  },
+  {
+    "id": 15,
+    "question": "Constructor is?",
+    "options": [
+      "Method to destroy",
+      "Initialize object",
+      "Loop",
+      "Variable"
+    ],
+    "answer": "Initialize object"
+  },
+  {
+    "id": 16,
+    "question": "Garbage collection?",
+    "options": [
+      "Manual memory",
+      "Automatic memory cleanup",
+      "Loop",
+      "Thread"
+    ],
+    "answer": "Automatic memory cleanup"
+  },
+  {
+    "id": 17,
+    "question": "String is immutable means?",
+    "options": [
+      "Can change",
+      "Cannot change",
+      "Loop",
+      "Error"
+    ],
+    "answer": "Cannot change"
+  },
+  {
+    "id": 18,
+    "question": "== vs equals()?",
+    "options": [
+      "Same",
+      "== compares reference",
+      "equals compares reference",
+      "None"
+    ],
+    "answer": "== compares reference"
+  },
+  {
+    "id": 19,
+    "question": "Multithreading is?",
+    "options": [
+      "Single task",
+      "Multiple threads execution",
+      "Loop",
+      "Class"
+    ],
+    "answer": "Multiple threads execution"
+  },
+  {
+    "id": 20,
+    "question": "Which package contains List interface?",
+    "options": [
+      "java.io",
+      "java.util",
+      "java.lang",
+      "java.sql"
+    ],
+    "answer": "java.util"
+  }
+]

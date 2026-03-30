@@ -1,0 +1,95 @@
+{
+  "section": "Aptitude",
+  "topic": "Work Profit Ratio",
+  "questions": [
+    {
+      "id": "apt-8",
+      "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+      "options": [
+        "12 days",
+        "15 days",
+        "16 days",
+        "18 days"
+      ],
+      "answer": "15 days"
+    },
+    {
+      "id": "apt-9",
+      "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+      "options": [
+        "Rs. 8400",
+        "Rs. 11,900",
+        "Rs. 13,600",
+        "Rs. 14,700"
+      ],
+      "answer": "Rs. 14,700"
+    },
+    {
+      "id": "apt-18",
+      "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B Rs. 8400 for 5 months and C Rs. 10,000 for 3 months. A was to receive 5% of the profits as the working member. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+      "options": [
+        "Rs. 1900",
+        "Rs. 2660",
+        "Rs. 2800",
+        "Rs. 2840"
+      ],
+      "answer": "Rs. 2660"
+    },
+    {
+      "id": "apt-20",
+      "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": "40"
+    },
+    {
+      "id": "apt-21",
+      "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+      "options": [
+        "3.5",
+        "4.5",
+        "5.6",
+        "6.5"
+      ],
+      "answer": "5.6"
+    },
+    {
+      "id": "apt-45",
+      "question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+      "options": [
+        "159",
+        "194",
+        "205",
+        "209",
+        "None of these"
+      ],
+      "answer": "209"
+    },
+    {
+      "id": "apt-52",
+      "question": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+      "options": [
+        "Rs. 500",
+        "Rs. 1500",
+        "Rs. 2000",
+        "None of these"
+      ],
+      "answer": "Rs. 2000"
+    },
+    {
+      "id": "apt-54",
+      "question": "Aman started a business investing Rs. 70,000. Rakhi joined him after six months with Rs. 1,05,000 and Sagar joined them with Rs. 1.4 lakhs after another six months. The amount of profit earned should be distributed in what ratio among Aman, Rakhi and Sagar respectively, 3 years after Aman started the business?",
+      "options": [
+        "7 : 6 : 10",
+        "12 : 15 : 16",
+        "42 : 45 : 56",
+        "Cannot be determined"
+      ],
+      "answer": "12 : 15 : 16"
+    }
+  ]
+}
